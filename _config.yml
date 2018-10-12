@@ -111,7 +111,7 @@ open_graph:
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: true
-  shortname: Unbelievable9
+  shortname: https-www-unbelievable9-info
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
